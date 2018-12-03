@@ -2,9 +2,9 @@ Package: TestGit
 Type: Package
 Title: Sample
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: bibhutibhuan362@gmail.com
-Description: 
+Author: Bibhuti Bhusan Sahoo
+Maintainer: <bibhutibhuan362@gmail.com>
+Description: true
 License: GPU
 Encoding: UTF-8
 LazyData: true
